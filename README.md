@@ -38,17 +38,17 @@ Você pode usá-lo para estudar a estrutura de dados de um projeto maior e como 
 
 **Para devs:**
 
-git clone git@github.com:MateusPitura/db-sql-commerce.git dump
+`git clone git@github.com:MateusPitura/db-sql-commerce.git dump`
 
-mysql -u <username> -p
+`mysql -u <username> -p`
 
-CREATE DATABASE commerce;
+`CREATE DATABASE commerce;`
 
-exit
+`exit`
 
-cd dump/
+`cd dump/`
 
-mysql -u <username> -p comemrce < commerce.sql
+`mysql -u <username> -p comemrce < commerce.sql`
 
 ## Tecnologias usadas 
 
