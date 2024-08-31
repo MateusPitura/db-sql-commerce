@@ -48,7 +48,7 @@ Você pode usá-lo para estudar a estrutura de dados de um projeto maior e como 
 
 `cd dump/`
 
-`mysql -u <username> -p comemrce < commerce.sql`
+`mysql -u <username> -p commerce < commerce.sql`
 
 ## Tecnologias usadas 
 
